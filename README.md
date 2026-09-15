@@ -157,6 +157,26 @@ Passwords, API keys, tokens, private keys, OTPs, 2FA codes, session cookies, car
 
 Issues and pull requests welcome. Useful directions: parsers for other chat platforms, calibration examples for non-English client communication, and better conflict heuristics.
 
+## Author
+
+Built by **Kayumkhan Sayal**, a full stack developer from India who got tired of losing client decisions inside three-month-old chat threads.
+
+<a href="https://kayumkhan-sayal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/itsKayumkhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/kayumkhan_sayal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/kayumkhan_sayal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.youtube.com/c/codemanoranjan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="mailto:kayumkhansayal2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+- Portfolio: [kayumkhan-sayal.netlify.app](https://kayumkhan-sayal.netlify.app/)
+- Email: [kayumkhansayal2004@gmail.com](mailto:kayumkhansayal2004@gmail.com)
+- GitHub: [@itsKayumkhan](https://github.com/itsKayumkhan)
+- LinkedIn: [kayumkhan_sayal](https://linkedin.com/in/kayumkhan_sayal)
+- X / Twitter: [@kayumkhan_sayal](https://twitter.com/kayumkhan_sayal)
+- YouTube: [codemanoranjan](https://www.youtube.com/c/codemanoranjan)
+
+If this skill saves you a painful "wait, what did we agree on?" moment, a star on the repo is appreciated.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
